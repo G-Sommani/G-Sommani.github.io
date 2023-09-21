@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Python for physicists, RUB WS 2023/2024
+title: Python for physicists, RUB, WS 2023/2024
 email: sommani@astro.rub.de
 description: >- # this means to ignore newlines until "baseurl:"
   Website for the exercises of the python lectures in RUB in the WS 2023/24.
